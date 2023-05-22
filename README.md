@@ -4,7 +4,7 @@ Zimbabwe Paynow plugin for moodle 4.x
 Paynow Enrolment Plugin
 ====================
 
-Paynow plugin for Moodle 2.x using the Paynow gateway.
+Paynow plugin for Moodle 4.x using the Paynow gateway.
 
 - © Copyright 2023 Nyasha Mandizvidza <nyashamandy4@gmail.com>
 
