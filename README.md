@@ -1,5 +1,5 @@
 # moodle-paynow
-Zimbabwe Paynow plugin for moodle 4.x
+Zimbabwe Paynow Payment Getway plugin for moodle 4.x
 
 Paynow Enrolment Plugin
 ====================
